@@ -13,7 +13,7 @@ https://github.com/CommunityOx/ox_inventory/releases/tag/v2.45.0
 
 Add this to ox inventory items.lua:
 
-['binoculars'] = {
+    ['binoculars'] = {
     label = 'Binoculars',
     weight = 800,
     stack = false,
